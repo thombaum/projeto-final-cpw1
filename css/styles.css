@@ -32,7 +32,7 @@ nav{
 	width: 100%;
 	z-index: 1;
 	background-color: white;
-	border-bottom: 1px solid #A19F9F;
+	border-bottom: 1px solid blueviolet;
 }
 nav:after{
 	clear: both;
