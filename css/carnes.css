@@ -54,7 +54,7 @@ nav:after{
 }
 .nav-container li a{
 	text-decoration: none;
-	color:#666;
+	color:gray;
 	transition: .5s;
 }
 .nav-container li a:hover{
