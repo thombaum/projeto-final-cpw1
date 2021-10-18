@@ -58,7 +58,7 @@ nav:after{
 	transition: .5s;
 }
 .nav-container li a:hover{
-	color:lightblue;
+	color:gray;
 }
 /*header*/
 header{
